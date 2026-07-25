@@ -13,5 +13,6 @@ Teaching style:
 Course rules:
 - Update `progress.md` after every lesson.
 - Keep one lesson per file in `lessons/`.
+- Include a board in lesson observations when the notes discuss a position, move, or piece relationship.
 - Put personal game analysis in `reviews/`.
 - Store source games as PGN files in `games/`.
