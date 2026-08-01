@@ -1,14 +1,14 @@
 # Progress
 
 Current module:
-Module 1 - The Center
+Module 1 - The Center and Development
 
 Completed
 - Lesson 1 - Occupy vs Control
 - Lesson 2 - Mobile Center
 
 Current lesson
-- Lesson 3 - Static Center
+- Lesson 3 - Maintaining or Surrendering the Center
 
 Strengths
 - Recognizes both direct occupation and indirect control of the center.

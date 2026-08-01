@@ -1,12 +1,12 @@
-# Lesson 03 - Static Center
+# Lesson 03 - Maintaining or Surrendering the Center
 
 Concepts
-- Static centers require piece placement, pressure, and long-term planning.
-- Fixed pawn structures clarify strong squares and weak squares.
-- The side with less central mobility often seeks counterplay on a wing.
+- A free mobile center can demobilize enemy pieces by driving them away.
+- If possible without a counterbalancing disadvantage, hold the center intact.
+- If the center is surrendered, the enemy mobile center pawn must be restrained or eliminated.
 
 Exercises
 - [ ] Pending
 
 Observations
-- To be updated after the lesson.
+- Source: `books/my-system-nimzowitsch-1930.txt`, Chapter I, Section 6 and 6a.
