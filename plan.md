@@ -4,6 +4,9 @@ Purpose:
 Build a practical understanding of Nimzowitsch's *My System* by studying one strategic idea at a time, testing it with questions, and connecting it to real games.
 
 Teaching method:
+- Use `books/my-system-nimzowitsch-1930.txt` as the course source.
+- Before teaching a lesson, check the relevant chapter/section in the source text.
+- Do not introduce chess theory unless it is stated in the source text for the current lesson's section.
 - Start each lesson with one strategic question.
 - Explain the idea before showing moves.
 - Use Unicode text boards for positions.
@@ -47,53 +50,59 @@ Lesson format:
 
 Course modules:
 
-Module 1 - The Center
+Module 1 - The Center and Development
 - Lesson 1 - Occupy vs Control
 - Lesson 2 - Mobile Center
-- Lesson 3 - Static Center
-- Lesson 4 - Pawn Breaks in the Center
-- Lesson 5 - When to Close the Center
+- Lesson 3 - Maintaining or Surrendering the Center
+- Lesson 4 - Restraining a Mobile Center
+- Lesson 5 - Development With Purpose
+- Lesson 6 - Tempo and Liquidation
+- Lesson 7 - Avoiding Pawn Hunting
 
-Module 2 - Development and Tempo
-- Lesson 6 - Development With Purpose
-- Lesson 7 - Tempo as a Strategic Asset
-- Lesson 8 - Avoiding Premature Attacks
+Module 2 - Open Files and Ranks
+- Lesson 8 - Creating Open Files
+- Lesson 9 - Occupying Open Files
+- Lesson 10 - Outposts in Open Files
+- Lesson 11 - Invasion of the Seventh and Eighth Ranks
 
-Module 3 - Open Files
-- Lesson 9 - Creating Open Files
-- Lesson 10 - Occupying Open Files
-- Lesson 11 - The Seventh Rank
+Module 3 - Passed Pawns and Blockade
+- Lesson 12 - Creating Passed Pawns and Candidates
+- Lesson 13 - Why Passed Pawns Must Be Blockaded
+- Lesson 14 - Strong and Weak Blockaders
+- Lesson 15 - Fighting Against the Blockader
 
-Module 4 - Prophylaxis
-- Lesson 12 - Asking What the Opponent Wants
-- Lesson 13 - Preventing Pawn Breaks
-- Lesson 14 - Restricting Pieces
+Module 4 - Exchanging
+- Lesson 16 - Exchange With Gain of Tempo
+- Lesson 17 - Liquidation and Disembarrassment
+- Lesson 18 - Exchanging to Destroy a Defender
+- Lesson 19 - Exchanging in the Struggle for a Point
 
-Module 5 - Overprotection
-- Lesson 15 - What Overprotection Means
-- Lesson 16 - Overprotection vs Passive Defense
-- Lesson 17 - Overprotection in My Own Games
+Module 5 - Pawn Chains
+- Lesson 20 - Base of the Pawn Chain
+- Lesson 21 - Two Theatres of War
+- Lesson 22 - Attack on the Base
+- Lesson 23 - Siege Warfare Against the Base
+- Lesson 24 - Transfer of the Attack
 
-Module 6 - Isolated Queen's Pawn
-- Lesson 18 - Strengths of the Isolated Pawn
-- Lesson 19 - Weaknesses of the Isolated Pawn
-- Lesson 20 - Blockade Against the Isolated Pawn
+Module 6 - Position Play
+- Lesson 25 - Prophylaxis and Enemy Freeing Moves
+- Lesson 26 - Overprotection of Strong Points
+- Lesson 27 - Overprotection of the Center
+- Lesson 28 - Restraint
 
-Module 7 - Passed Pawns
-- Lesson 21 - Creating Passed Pawns
-- Lesson 22 - Blockading Passed Pawns
-- Lesson 23 - Supporting the Blockader
+Module 7 - Static Weaknesses
+- Lesson 29 - Doubled Pawns and Restraint
+- Lesson 30 - Isolated Queen's Pawn: Strength and Weakness
+- Lesson 31 - Hanging Pawns
+- Lesson 32 - The Two Bishops
 
-Module 8 - Exchange and Simplification
-- Lesson 24 - Good and Bad Exchanges
-- Lesson 25 - Trading Into Favorable Structures
-- Lesson 26 - When Simplification Helps the Defender
-
-Module 9 - Practical Game Review
-- Lesson 27 - Review One Own Game for Center Control
-- Lesson 28 - Review One Own Game for Prophylaxis
-- Lesson 29 - Review One Own Game for Overprotection
-- Lesson 30 - Final Summary and Next Study Plan
+Module 8 - Practical Game Review
+- Lesson 33 - Review One Own Game for Center Control
+- Lesson 34 - Review One Own Game for Open Files
+- Lesson 35 - Review One Own Game for Blockade
+- Lesson 36 - Review One Own Game for Pawn Chains
+- Lesson 37 - Review One Own Game for Prophylaxis
+- Lesson 38 - Final Summary and Next Study Plan
 
 Progress rules:
 - A lesson is complete only after at least one exercise or example position.
