@@ -5,6 +5,7 @@ Teaching style:
 - Use Unicode text boards with chess piece symbols, not letter abbreviations.
 - Always orient boards with White at the bottom and Black at the top.
 - Whenever you describe moves, show them on an ASCII table using chess piece symbols.
+- Show an intermediate board after every two position-changing moves so the student can follow the position.
 - Ask strategic questions before giving answers.
 - Connect concepts to a range of openings when useful, choosing examples that best illustrate the strategic idea.
 - Do not over-focus on the Four Knights; include other openings and structures over time.
@@ -20,5 +21,6 @@ Course rules:
 - Update `progress.md` after every lesson.
 - Keep one lesson per file in `lessons/`.
 - Include a board in lesson observations when the notes discuss a position, move, or piece relationship.
+- Lesson examples with move sequences must include intermediate boards after every two position-changing moves.
 - Put personal game analysis in `reviews/`.
 - Store source games as PGN files in `games/`.
