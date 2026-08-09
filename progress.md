@@ -9,9 +9,10 @@ Completed
 - Lesson 3 - Maintaining or Surrendering the Center
 - Lesson 4 - Restraining a Mobile Center
 - Lesson 5 - Development With Purpose
+- Lesson 6 - Tempo and Liquidation
 
 Current lesson
-- Lesson 6 - Tempo and Liquidation
+- Lesson 7 - Avoiding Pawn Hunting
 
 Strengths
 - Recognizes both direct occupation and indirect control of the center.
@@ -23,6 +24,9 @@ Strengths
 - Ready to connect development moves to their central purpose instead of counting developed pieces only.
 - Understands that central pawn moves can gain time by attacking developed pieces.
 - Recognizes that moving the same piece again during development costs a tempo.
+- Understands that `Nc3` can gain tempo when it develops a knight and attacks an exposed queen on `d5`.
+- Understands that a central exchange is good in the opening when it gains tempo or simplifies central tension so development can continue.
+- Correctly noticed a board error and preserved the White pawn on `d4` after `exd5 Qxd5`.
 
 Needs review
 - Be precise about what pawn breaks attack, open, and weaken.
@@ -30,6 +34,7 @@ Needs review
 - Distinguish restraint by observation from elimination by exchange.
 - Remember that a pawn move is only justified in the development stage when it helps build, support, or attack the center.
 - Be precise about which piece is attacked: in Lesson 5, `...d4` attacks the knight on `c3`.
+- Keep capture descriptions precise: `exd5` moves the pawn to `d5`; from there it attacks the knight on `c6`.
 
 Homework
-- Prepare for Lesson 6 - Tempo and Liquidation.
+- Prepare for Lesson 7 - Avoiding Pawn Hunting.
