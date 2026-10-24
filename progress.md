@@ -11,9 +11,10 @@ Completed
 - Lesson 5 - Development With Purpose
 - Lesson 6 - Tempo and Liquidation
 - Lesson 7 - Avoiding Pawn Hunting
+- Lesson 8 - Creating Open Files
 
 Current lesson
-- Lesson 8 - Creating Open Files
+- Lesson 9 - Occupying Open Files
 
 Strengths
 - Recognizes both direct occupation and indirect control of the center.
@@ -31,6 +32,10 @@ Strengths
 - Recognizes that hunting a wing pawn can lose development time by letting the opponent drive a piece around.
 - Correctly chose `...Bb6` to decline the Evans Gambit pawn and secure the bishop.
 - Understands that capturing a central pawn can be justified because it weakens the enemy center and creates elbow room.
+- Understands that a file is open for a rook when none of that rook's own pawns remains on it.
+- Recognizes that an enemy pawn on an otherwise open file is an objective rather than a friendly obstruction.
+- Understands how a central exchange and pawn recapture can open a file peacefully.
+- Correctly identified an adjacent pawn as the potential objective of a file-opening pawn assault.
 
 Needs review
 - Be precise about what pawn breaks attack, open, and weaken.
@@ -40,6 +45,8 @@ Needs review
 - Be precise about which piece is attacked: in Lesson 5, `...d4` attacks the knight on `c3`.
 - Keep capture descriptions precise: `exd5` moves the pawn to `d5`; from there it attacks the knight on `c6`.
 - When evaluating a pawn capture, distinguish material gain from the positional gain of conquering the center.
+- Before beginning a file-opening pawn assault, verify the side to move and whether the target pawn can advance, capture, or escape.
+- Distinguish a strategic pawn plan from a forced move sequence.
 
 Homework
-- Prepare for Lesson 8 - Creating Open Files.
+- Prepare for Lesson 9 - Occupying Open Files.
