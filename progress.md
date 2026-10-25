@@ -12,9 +12,10 @@ Completed
 - Lesson 6 - Tempo and Liquidation
 - Lesson 7 - Avoiding Pawn Hunting
 - Lesson 8 - Creating Open Files
+- Lesson 9 - Occupying Open Files
 
 Current lesson
-- Lesson 9 - Occupying Open Files
+- Lesson 10 - Outposts in Open Files
 
 Strengths
 - Recognizes both direct occupation and indirect control of the center.
@@ -36,6 +37,10 @@ Strengths
 - Recognizes that an enemy pawn on an otherwise open file is an objective rather than a friendly obstruction.
 - Understands how a central exchange and pawn recapture can open a file peacefully.
 - Correctly identified an adjacent pawn as the potential objective of a file-opening pawn assault.
+- Recognizes that several files can be open at once and distinguishes an open file from a useful file with an immediate objective.
+- Understands that occupying an open file does not by itself permit penetration when an enemy pawn blocks the rook.
+- Correctly identified doubling rooks as a way to establish a preponderance against a defended objective.
+- Calculated how the rear rook replaces the leading rook after an exchange on the open file.
 
 Needs review
 - Be precise about what pawn breaks attack, open, and weaken.
@@ -47,6 +52,7 @@ Needs review
 - When evaluating a pawn capture, distinguish material gain from the positional gain of conquering the center.
 - Before beginning a file-opening pawn assault, verify the side to move and whether the target pawn can advance, capture, or escape.
 - Distinguish a strategic pawn plan from a forced move sequence.
+- Distinguish occupying an open file from conquering it and penetrating through it.
 
 Homework
-- Prepare for Lesson 9 - Occupying Open Files.
+- Prepare for Lesson 10 - Outposts in Open Files.
